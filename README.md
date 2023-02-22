@@ -1,4 +1,4 @@
-<img align="center" width="100%" src="snake.gif">
+<img align="center" width="100%" src="snake2.gif">
 <h1 align="center">Hi 👋, I'm Adeeb</h1>
 <h3 align="center">A passionate programmer from India</h3>
 <img align="right" clt="coding" width="400" src="programmer.gif">
